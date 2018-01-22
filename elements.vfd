@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asvisual version="0.2" target="Name.as" name="Name" width="800" height="600" forceMin="False" forceMax="False">
+	<textfield name="widget" x="0" y="70" width="150" height="150" fitWidth="False" fitHeight="True" fontFamily="Courier New" fontSize="12" bold="False" italic="False" underline="False" foreground="-16777216" editable="False">
+	</textfield>
+</asvisual>
